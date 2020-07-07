@@ -24,7 +24,7 @@ While using our Service, we may ask you to provide us with certain personally id
 0.2. First name
 0.3. Phone number
 0.4. Cookies and Usage Data
-We use your Personal Data for the sole purpose of proving you a copy of the text messages you’ll be sending using the skill.
+We use your Personal Data for the purpose of providing you a copy of the text messages you’ll be sending using the skill.
 Usage Data
 We may also collect information that your browser sends whenever you visit our Service or when you access Service by or through any device (“Usage Data”).
 This Usage Data may include information such as your computer’s Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
